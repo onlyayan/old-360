@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+ <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N39V24F');</script>
+<!-- End Google Tag Manager -->
+    <title>SEO Service | Digital Marketing Agency in Midnapore, India</title>
+
+    <meta name="keywords" content="Seo Service in Midnapore, Digital Marketing in Midnapore, Facebook ad in Midnapore">
+    <meta name="Description" content="SEO and Digital Marketing Service in Midnapore and Kolkata. Perfect SEO campaign can boost your ranking and Return of Investment. We are always ready to serve: Facebook Ad, SEO">
+    <!-- web-fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,700,500' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <!-- off-canvas -->
+    <link href="css/mobile-menu.css" rel="stylesheet">
+    <!-- font-awesome -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">    
+    <!-- Flat Icon -->
+    <link href="fonts/flaticon/flaticon.css" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+          integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <!-- Style CSS -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link rel="canonical" href="https://seothreesixty.com">
+    <link rel="canonical" href="https://www.seothreesixty.com/index.html">
+    
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N39V24F"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="main-wrapper">
+<!-- Page Preloader -->
+<div id="preloader">
+    <div id="status">
+        <div class="status-mes"></div>
+    </div>
+</div>
+
+<div class="uc-mobile-menu-pusher">
+
+<div class="content-wrapper">
+<!-- Header Top -->
+<div class="header-top visible-md visible-lg">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-4">
+                <ul class="social-icon">
+                <li><a href="https://www.facebook.com/Seo-360-427117021386664/?modal=admin_todo_tour" taget="blank" class="fa fa-facebook" aria-hidden="true"> </a></li>
+                <li><a href="" class="fa fa-twitter" aria-hidden="true"> </a></li>
+                <li><a href="" class="fa fa-pinterest-p" aria-hidden="true"> </a></li>
+                <li><a href="" class="fa fa-google-plus" aria-hidden="true"> </a></li>
+                <li><a href="" class="fa fa-linkedin" aria-hidden="true"> </a></li>
+                    
+                </ul>
+            </div>
+
+            <div class="col-sm-12 col-md-8">
+                <ul class="top-contact pull-right">
+                    <li class="phone"><i class="fa fa-phone-square" aria-hidden="true"></i> +91 9641660264</li>
+                    <li class="email"><i class="fa fa-envelope" aria-hidden="true"></i>
+                    <a href = "mailto: info@seothreesixty.com">info@seothreesixty.com</a>
+                    </li>
+                    <li class="get-a-quote"><a href ="mailto: ayanmahatamid@gmail.com"> Get a Quote</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div> 
+<!-- .navbar-top -->
+<nav class="navbar m-menu navbar-default">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://www.seothreesixty.com"><img src="img/logo.jpg" alt=""></a>
+        </div>
+
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right main-nav">
+                
+                <li><a href="about.html">About</a></li>
+                <li><a href="seo-services.html">Services</a></li>
+                <li><a href="https://seothreesixty.com/blog" target="blank">Blog</a></li>
+               
+                 <li class="dropdown dropdown-toggle"><a href="#" data-toggle="dropdown">Grow your business! <span><i class="fa fa-angle-down"></i></span></a>
+                    <ul class="dropdown-menu">
+                            <li><a href="seo-services.html">SEO</a></li>
+                            <li><a href="seo-services.html">PPC</a></li>
+                            <li><a href="seo-services.html">Facebook Promotion</a></li>
+                            <li><a href="seo-services.html">Youtube Ad</a></li>
+                            <li><a href="https://seothreesixty.blogspot.com/">Return of Investment</a></li>
+                    </ul>
+                </li>
+            </ul>
+
+        </div>
+        <!-- .navbar-collapse -->
+    </div>
+    <!-- .container -->
+</nav>
+<!-- .nav -->
+
+<div id="my-carousel" class="carousel slide hero-slide hidden-xs" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#my-carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#my-carousel" data-slide-to="1"></li>
+        <li data-target="#my-carousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <img src="img/seo-digital-marketing-1.jpg" alt="">
+
+            <div class="carousel-caption">
+            <h3>Market Analysis</h3>
+
+                <p>The starting point of your online presence.<br/> We Analysis both your customers and competitors to achieve your highest growth. 
+                </p>
+                
+            </div>
+        </div>
+        <div class="item">
+            <img src="img/seo-digital-marketing-2.jpg" alt="">
+
+            <div class="carousel-caption">
+               <h3>Strategic Management</h3>
+
+                <p>Continuous planning, monitoring, analysis and deploy assignments to meet your goals</p>
+            </div>
+        </div>
+        <div class="item">
+            <img src="img/seo-digital-marketing-3.jpg" alt="">
+
+            <div class="carousel-caption">
+                <h3>Customer Care</h3>
+
+                <p>We belive in Customer first moral.<br/> Don't hesitate to contact us right now and get you first service for free*.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Controls -->
+      <a class="left carousel-control" href="#my-carousel" role="button" data-slide="prev">
+        <i class="fa fa-angle-left" aria-hidden="true"></i>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#my-carousel" role="button" data-slide="next">
+        <i class="fa fa-angle-right" aria-hidden="true"></i>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+<!-- #my-carousel-->
+
+
+
+<section class="section-content-left-icon">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="left-icon-wraper">
+                    <div class="icon">
+                        <i class="flaticon-tags"></i>
+                    </div>
+                    
+                    <div class="content">
+                    <h2>SEO Experts</h2>
+                    <p>SEO drives great trffic to your website through organic search result. A profesionally expert in this field analyzes, reviews and implements required changes to your website.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="left-icon-wraper">
+                <div class="icon"><i class="flaticon-ranking"></i></div>
+                
+                <div class="content">
+                    <h2>Great Rankings</h2>
+                    <p>There are over 200 factors that directly matters to your ranking. We believe we have enough resources to give you exactly what you need.</p>
+                </div>
+                    
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="left-icon-wraper">
+                <div class="icon"><i class="flaticon-monitoring"></i></div>
+
+                <div class="content">
+                     <h2>Brand Awareness</h2>
+                    <p>
+When you become successful in creating brand awareness among your target customers, then you can accelerate your business. We believe Digital First theory is best to create brand identity.</p>
+                </div>
+                   
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="left-icon-wraper">
+                <div class="icon"><i class="flaticon-blogging"></i></div>
+
+                 <div class="content">
+                     <h2>Content Marketing</h2>
+                    <p>A strategic marketing approach to focus on creating and distributing valuable, relevant and consistent content to attract and engage a collection of defined audience</p>
+                 </div>
+                    
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="left-icon-wraper">
+                <div class="icon"><i class="flaticon-social-media"></i></div>
+
+                 <div class="content">
+                     <h2>Social Media</h2>
+                    <p>It's a creative approach to roadmap a strategy, effective activation requires custom solutions, unique campaigns built for each social media activation. A recent report says that Social Media active company gets more leads.</p>
+                 </div>
+                    
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="left-icon-wraper">
+                <div class="icon"><i class="flaticon-viral-marketing"></i></div>
+
+                <div class="content">
+                    <h2>Digital Marketing</h2>
+                    <p>Digital marketing is a broad term which includes all online marketing tools and efforts. It ensures your impresion world-wide.We cover different channels reach your potential customers. </p>
+                </div>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- .container -->
+</section>
+<!-- /.services-left-icon -->
+
+<section class="featured-box">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-12">
+            <div class="featured-content-wrapper">
+            <div class="featured-img">
+                <img class="img-responsive" src="img/seo-service.jpg" alt="">
+            </div>
+            <div class="featured-content">
+                <h1>We Improve Your Online Performance</h1>
+                <p>
+                    Dynamically enhance accurate methods of empowerment without interdependent applications. Appropriately e-enable synergistic platforms for visionary manufactured products. Dramatically develop state of the art relationships without enterprise-wide methodologies.
+                </p>
+                <a href="seo-services.html" class="btn btn-default btn-lg">Learn More About Us</a>
+            </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /.featured-box -->
+
+
+<!-- /.testimonial -->
+
+
+<!-- /.client-logo -->
+
+<section class="case-studies">
+    <div class="container">
+        <div class="section-title text-center">
+        <h1>Digital Marketing Service in 2019</h1>
+<p>Digital Marketing is a broad term which covers all online marketing tools and efforts. Under this, different digital channels such as Google search, social media, email, and one's own website is used to connect current and prospective customers. Internet still has newcomer every day, every minute average of two lakhs people search Google. Connecting with your audience in the right place at the right time, so its simple, you have to meet them where they are already in love to spend time: on the internet. At SEO360 we give a lot of inbound traffic as it is an effective result of ATTRACT, ENGAGE, and DELIGHT customers online. In Digital marketing as well as SEO There are a lot of areas to cover to keep the ball rolling. The best SEO expert has clear idea to simulate each campaign achieving there goal. And It also depends on marketing strategy which can support the various campaign through free and paid channels at their disposal.</p>
+            <h3>Our case Studies</h3>
+            <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy<br>with my whole heart. I am alone, and feel the charm of existence in this spot.</p>
+        </div>
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="case-studies-content">
+                    <img class="img-responsive" src="img/seo-digital-marketing-service-1.jpg" alt="">
+                    <h3>Solving the problem</h3>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="case-studies-content">
+                    <img class="img-responsive" src="img/seo-digital-marketing-service-2.jpg" alt="">
+                    <h3>Analysis of the enterprise's activity</h3>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="case-studies-content">
+                    <img class="img-responsive" src="img/seo-digital-marketing-service-3.jpg" alt="">
+                    <h3>Methods of the recruitment</h3>
+                </div>
+            </div>
+        </div><!-- /.row -->
+
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="case-studies-content">
+                    <img class="img-responsive" src="img/seo-digital-marketing-service-4.jpg" alt="">
+                    <h3>SEO and Web development</h3>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="case-studies-content">
+                    <img class="img-responsive" src="img/seo-digital-marketing-service-5.jpg" alt="">
+                    <h3>Thinking only of profits</h3>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="case-studies-content">
+                    <img class="img-responsive" src="img/seo-digital-marketing-service-6.jpg" alt="">
+                    <h3>The main objectives of the marketer</h3>
+                </div>
+            </div>
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</section>
+<!-- /.client-logo -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcWqTJymM_Yna9m3srjpwJQMEtUVSJSELhMK8oyIm84M5hgw/viewform?embedded=true" width="500" height="573" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+<footer class="footer">
+
+    <!-- Footer Widget Section -->
+    <div class="footer-widget-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="footer-logo">
+                        <a href="https://www.seothreesixty.com"><img class="img-responsive" src="img/logo-footer.jpg" alt=""></a>
+                    </div>
+                </div><!-- /.col-sm-4 -->
+
+                <div class="col-md-8">
+                    <div class="footer-text">
+                      <p>We are <b>SEO and Digital Marketing Service</b> based company in Midnapore and Kolkata. We keep our every step clean and clear to our Clients. Giving clients maximum ROI is our job.<br/>SEO is ongoing process, we'll work on your project minmum 3 to 12 months (on Package).<br/> We take projects from all over the World.  </p>
+
+                      <ul>
+                          <li class="phone"><i class="fa fa-volume-control-phone" aria-hidden="true"></i> +91 9641660264 
+                          <small><i class="fa fa-clock-o" aria-hidden="true"></i> Mon - Sun 8.00 - 22.00h</small></li>
+                          <li class="address">
+                          <address>
+                            <i class="fa fa-map-pin" aria-hidden="true"></i>
+                            Midnapore, West Bengal 721101, India
+                          </address>
+                          </li>
+                      </ul>
+
+                    </div>
+                </div><!-- /.col-sm-4 -->
+            </div>
+        </div>
+    </div><!-- /.Footer Widget Section -->
+
+    <div class="copyright-section">
+        <div class="container clearfix">
+        <!--    <span class="copytext">Copyright &copy; 2016 | <a href="https://uicookies.com/downloads/marketer-bootstrap-html5-advertising-agency-website-template/">Marketer</a> Designed And Developed By: <strong style="color:#4d6de3">uiCookies.com</strong></span>-->
+
+            <ul class="list-inline pull-right">
+                 <li><a href="https://www.seothreesixty.com/sitemap.html">Sitemap</a></li>
+                <li class="active"><a href="https://www.seothreesixty.com">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                
+                <li><a href="https://seothreesixty.blogspot.com/" target="blank">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div><!-- .container -->
+
+    </div><!-- .copyright-section -->
+</footer>
+<!-- .footer -->
+
+</div>
+<!-- .content-wrapper -->
+</div>
+<!-- .uc-mobile-menu-pusher -->
+
+<div class="uc-mobile-menu uc-mobile-menu-effect">
+    <button type="button" class="close" aria-hidden="true" data-toggle="offcanvas"
+            id="uc-mobile-menu-close-btn">&times;</button>
+    <div>
+        <div>
+            <ul id="menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- .uc-mobile-menu -->
+
+</div>
+<!-- #main-wrapper -->
+
+
+<!-- Script -->
+<script src="js/jquery-2.1.4.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+        integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+        crossorigin="anonymous"></script>
+<script src="js/smoothscroll.js"></script>
+<script src="js/mobile-menu.js"></script>
+<script src="js/scripts.js"></script>
+<div/>
+        <a style="font-size:0; height:0; width:0; opacity:0; position:absolute" target="_blank" href="http://www.uicookies.com">Bootstrap Templates by uiCookies</a>        
+    </div>
+</body>
+</html>
